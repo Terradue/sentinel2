@@ -262,14 +262,14 @@
         "reflectance"
       ]
     },
-    "rededge1": {
+    "rededge071": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R20m/T01CCV_20191228T210519_B05_20m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 1 - 20m",
       "eo:bands": [
         {
           "name": "B05",
-          "common_name": "rededge",
+          "common_name": "rededge071",
           "center_wavelength": 0.704,
           "full_width_half_max": 0.019
         }
@@ -307,14 +307,14 @@
         "reflectance"
       ]
     },
-    "rededge2": {
+    "rededge074": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R20m/T01CCV_20191228T210519_B06_20m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 2 - 20m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge",
+          "common_name": "rededge074",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }
@@ -352,14 +352,14 @@
         "reflectance"
       ]
     },
-    "rededge3": {
+    "rededge078": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R20m/T01CCV_20191228T210519_B07_20m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 3 - 20m",
       "eo:bands": [
         {
           "name": "B07",
-          "common_name": "rededge",
+          "common_name": "rededge078",
           "center_wavelength": 0.783,
           "full_width_half_max": 0.028
         }
@@ -880,14 +880,14 @@
         "reflectance"
       ]
     },
-    "rededge1_60m": {
+    "rededge071_60m": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R60m/T01CCV_20191228T210519_B05_60m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 1 - 60m",
       "eo:bands": [
         {
           "name": "B05",
-          "common_name": "rededge",
+          "common_name": "rededge071",
           "center_wavelength": 0.704,
           "full_width_half_max": 0.019
         }
@@ -924,14 +924,14 @@
         "reflectance"
       ]
     },
-    "rededge2_60m": {
+    "rededge074_60m": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R60m/T01CCV_20191228T210519_B06_60m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 2 - 60m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge",
+          "common_name": "rededge074",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }
@@ -968,14 +968,14 @@
         "reflectance"
       ]
     },
-    "rededge3_60m": {
+    "rededge078_60m": {
       "href": "./GRANULE/L2A_T01CCV_A014683_20191228T210521/IMG_DATA/R60m/T01CCV_20191228T210519_B07_60m.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
       "title": "Red Edge 3 - 60m",
       "eo:bands": [
         {
           "name": "B07",
-          "common_name": "rededge",
+          "common_name": "rededge078",
           "center_wavelength": 0.783,
           "full_width_half_max": 0.028
         }

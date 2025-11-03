@@ -296,14 +296,14 @@
         "reflectance"
       ]
     },
-    "rededge1": {
+    "rededge071": {
       "href": "./GRANULE/L1C_T01LAC_A026481_20200717T221944/IMG_DATA/T01LAC_20200717T221941_B05.jp2",
       "type": "image/jp2",
       "title": "Red Edge 1 - 20m",
       "eo:bands": [
         {
           "name": "B05",
-          "common_name": "rededge",
+          "common_name": "rededge071",
           "center_wavelength": 0.704,
           "full_width_half_max": 0.019
         }
@@ -341,14 +341,14 @@
         "reflectance"
       ]
     },
-    "rededge2": {
+    "rededge074": {
       "href": "./GRANULE/L1C_T01LAC_A026481_20200717T221944/IMG_DATA/T01LAC_20200717T221941_B06.jp2",
       "type": "image/jp2",
       "title": "Red Edge 2 - 20m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge",
+          "common_name": "rededge074",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }
@@ -386,14 +386,14 @@
         "reflectance"
       ]
     },
-    "rededge3": {
+    "rededge078": {
       "href": "./GRANULE/L1C_T01LAC_A026481_20200717T221944/IMG_DATA/T01LAC_20200717T221941_B07.jp2",
       "type": "image/jp2",
       "title": "Red Edge 3 - 20m",
       "eo:bands": [
         {
           "name": "B07",
-          "common_name": "rededge",
+          "common_name": "rededge078",
           "center_wavelength": 0.783,
           "full_width_half_max": 0.028
         }
