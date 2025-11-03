@@ -65,19 +65,19 @@ SENTINEL_BANDS: Final[dict[str, Band]] = {
         common_name="rededge071",
         center_wavelength=(0.69 + 0.73)
         / 2,  # according to EO STAC extension version v2.0.0
-        full_width_half_max=0.69 - 0.73,
+        full_width_half_max= 0.73 -0.69 ,
     ),
     "rededge074": Band.create(
         name="B06",
         common_name="rededge074",
         center_wavelength=(0.73 + 0.76) / 2,
-        full_width_half_max=(0.73 - 0.76),
+        full_width_half_max=(0.76 - 0.73),
     ),
     "rededge078": Band.create(
         name="B07",
         common_name="rededge078",
         center_wavelength=(0.76 + 0.79) / 2,
-        full_width_half_max=0.76 - 0.79,
+        full_width_half_max=0.79 - 0.76,
     ),
     "nir": Band.create(
         name="B08",
