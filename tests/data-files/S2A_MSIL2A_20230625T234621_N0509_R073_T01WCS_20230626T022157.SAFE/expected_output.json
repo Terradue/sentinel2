@@ -694,14 +694,14 @@
         "reflectance"
       ]
     },
-    "rededge074": {
+    "rededge075": {
       "href": "./GRANULE/L2A_T01WCS_A041826_20230625T234624/IMG_DATA/R20m/T01WCS_20230625T234621_B06_20m.jp2",
       "type": "image/jp2",
       "title": "Red Edge 2 - 20m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge074",
+          "common_name": "rededge075",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }
@@ -1311,14 +1311,14 @@
         "reflectance"
       ]
     },
-    "rededge074_60m": {
+    "rededge075_60m": {
       "href": "./GRANULE/L2A_T01WCS_A041826_20230625T234624/IMG_DATA/R60m/T01WCS_20230625T234621_B06_60m.jp2",
       "type": "image/jp2",
       "title": "Red Edge 2 - 60m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge074",
+          "common_name": "rededge075",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }

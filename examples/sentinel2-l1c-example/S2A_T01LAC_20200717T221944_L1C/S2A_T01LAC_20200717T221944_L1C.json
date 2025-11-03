@@ -356,14 +356,14 @@
         "reflectance"
       ]
     },
-    "rededge074": {
+    "rededge075": {
       "href": "../../../tests/data-files/S2A_MSIL1C_20200717T221941_R029_T01LAC_20200717T234135.SAFE/GRANULE/L1C_T01LAC_A026481_20200717T221944/IMG_DATA/T01LAC_20200717T221941_B06.jp2",
       "type": "image/jp2",
       "title": "Red Edge 2 - 20m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge074",
+          "common_name": "rededge075",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }

@@ -299,14 +299,14 @@
         "reflectance"
       ]
     },
-    "rededge074": {
+    "rededge075": {
       "href": "./B06.jp2",
       "type": "image/jp2",
       "title": "Red Edge 2 - 20m",
       "eo:bands": [
         {
           "name": "B06",
-          "common_name": "rededge074",
+          "common_name": "rededge075",
           "center_wavelength": 0.74,
           "full_width_half_max": 0.018
         }

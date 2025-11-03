@@ -66,10 +66,10 @@ SENTINEL_BANDS: Final[dict[str, Band]] = {
         center_wavelength=0.71,  # according to EO STAC extension version v2.0.0
         full_width_half_max= 0.04 ,
     ),
-    "rededge074": Band.create(
+    "rededge075": Band.create(
         name="B06",
-        common_name="rededge074",
-        center_wavelength=0.745,
+        common_name="rededge075",
+        center_wavelength=0.75,
         full_width_half_max=0.03,
     ),
     "rededge078": Band.create(
@@ -126,7 +126,7 @@ UNSUFFIXED_BAND_RESOLUTION: Final[dict[str, int]] = {
     "green": 10,
     "red": 10,
     "rededge071": 20,
-    "rededge074": 20,
+    "rededge075": 20,
     "rededge078": 20,
     "nir": 10,
     "nir08": 20,
@@ -144,7 +144,7 @@ BANDS_TO_ASSET_NAME: Final[dict[str, str]] = {
     "B03": "green",
     "B04": "red",
     "B05": "rededge071",
-    "B06": "rededge074",
+    "B06": "rededge075",
     "B07": "rededge078",
     "B08": "nir",
     "B8A": "nir08",
@@ -160,7 +160,7 @@ ASSET_TO_TITLE: Final[dict[str, str]] = {
     "green": "Green",
     "red": "Red",
     "rededge071": "Red Edge 1",
-    "rededge074": "Red Edge 2",
+    "rededge075": "Red Edge 2",
     "rededge078": "Red Edge 3",
     "nir": "NIR 1",
     "nir08": "NIR 2",
